@@ -88,34 +88,6 @@ Os dados escolhidos estão disponíveis no site **NYC Open Data**, adm
 
 [NYPD Complaint Data Historic | NYC Open Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
-**Tratamentos dos dados**
-
-Abaixo estão descritos todo o passo a passo desde a extração, até a união dos datasets de SP e NY já tratados.
-
-**DataSet Original SP:** 
-
-[Google Colaboratory](https://colab.research.google.com/drive/1eV38I-n5OIjpW3-0Sq5ZufqgKW2t4xcm#scrollTo=vlvmxhs9gz3i)
-
-**DataSet Tratado SP:**
-
-[Google Colaboratory](https://colab.research.google.com/drive/13qLkbFJe_wSJGXic6iynm9PdZQha2qqc?usp=sharing#scrollTo=YJi1DahFj2JA)
-
-**DataSet Original NY:** 
-
-[Google Colaboratory](https://colab.research.google.com/drive/1SaJsTqgnlMG1bhi3EAuSWcgQbvKC_9HN?usp=sharing)
-
-**DataSet Tratado NY:**
-
-[Google Colaboratory](https://colab.research.google.com/drive/18xT-9DM1DLl5xQUe94PORFBuSxu8JbRa?usp=sharing)
-
-**Data Frame juntando os dados de SP e NY:**
-
-[Google Colaboratory](https://colab.research.google.com/drive/10DKEuS-6YmLVSqLintBcaIJbX1kr-85A?usp=sharing)
-
-**Envio do DataSet tratado ao BigQuery via Apache Beam:**
-
-[Google Colaboratory](https://colab.research.google.com/drive/1_AGCOsc5T1UfPD9jaMlxC7f-F0B2FCJH?usp=sharing)
-
 </aside>
 
 ## Data Visualization
@@ -133,10 +105,8 @@ Após realizar todos os tratamentos necessários e salvar os dados nos Data Lake
 ## Apresentação
 
 <aside>
-🎞️ **Apresentação Grupo 1 - Crimes:**
+[Notion](https://www.notion.so/Mindful-Data-Consultoria-d495964059c34acb9c8fe3d21dbb5cf6)
 
-No card abaixo está nossa apresentação de slides, neste documento traremos mais detalhes sobre todo o processo.
-  
-[Apresentacao-Projeto Final](https://docs.google.com/presentation/d/1MOZrRZjA0osVoUOXwtIEGe0eB5-IHpQPyh5FzGpo74U/edit#slide=id.g1c679854a04_0_2587)
+
 
 </aside>
