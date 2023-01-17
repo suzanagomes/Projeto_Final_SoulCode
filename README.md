@@ -64,7 +64,7 @@ Essa etapa está contida aqui:
 
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
-
+![Workflow](https://github.com/suzanagomes/Projeto_Final_SoulCode/blob/b56ecd7926aec633cc33450fe470509ca5b858dc/Workflow%20-%20CRIMES_NY_SP.png)
 
 📄**Definição das bases de dados**
 
