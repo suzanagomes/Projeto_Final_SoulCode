@@ -10,16 +10,8 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 - Processos de ETL;
 - Produção de insights e dashboards para apoiar decisões de negócios;
 
-Nosso **squad** é composto por:
-
 </aside>
-![3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3118646-ce44-4d71-9d28-9585359c9da2/3.png)
 
-![Design sem nome (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef78bf14-e393-460d-93b0-377dfc5a18c9/Design_sem_nome_(1).png)
-
-![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c39b4c0-2e0b-4e8d-93c8-3d306887edc3/2.png)
-
-![4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72559785-117d-443a-a1f8-aa66b4c116cb/4.png)
 
 ## Os Requisitos
 
@@ -73,7 +65,7 @@ Essa etapa está contida aqui:
 
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
-![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c588b1f8-1273-4620-8369-9a0a0831b3cc/WhatsApp_Image_2023-01-16_at_17.01.02.jpeg)
+
 
 📄**Definição das bases de dados**
 
