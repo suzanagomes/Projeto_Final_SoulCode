@@ -1,5 +1,12 @@
-# Projeto_Final_SoulCode
-
+**Projeto final do curso de Engenharia de dados da SoulCode Academy**
+- **Autores:** Suzana Gomes, Anderson Calasans, Giovana de Brito, Wilbert Silva
+ - **Data de entrega:** January 17, 2023
+ - **Resumo:** Projeto final  do curso de engenharia de dados da SoulCode Academy, com relevância na área de crimes (segurança pública), que mostra um estudo comparativo entre as cidades de São Paulo (Brasil) e New York (United States of America) quanto ao número de casos de crimes envolvendo homicídios e os dados envolvendo este tipo de ocorrência.
+ - **Status:** Finalizado
+ - **Tema:** Crimes (Segurança Pública)
+ - **Type:** Projeto Final - Soul Code
+ - **Área de estudo:** ETL, Engenharia de dados, GCP, MongoDB, MySQL, Python, SQL
+ 
 <aside>
 🚀 **A Empresa:**
 
@@ -11,6 +18,8 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 
 </aside>
 
+
+ 
 
 ## Os Requisitos
 
